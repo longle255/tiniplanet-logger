@@ -1,0 +1,23 @@
+{
+  "name": "tiniplanet-logger",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "log4js": "0.6.21",
+    "stack-trace": "0.0.9"
+  },
+  "devDependencies": {
+    "should": ">=0.0.1",
+    "mocha": ">=0.0.1"
+  },
+  "description": "tiniplanet-logger, modified version of pomelo-logger",
+  "_id": "tiniplanet-logger@0.1.0",
+  "_from": "tiniplanet-logger@",
+  "_npmVersion": "1.4.9",
+  "maintainers": [
+    {
+      "name": "long.le",
+      "email": "long.le@tiniplanet.com"
+    }
+  ]
+}
