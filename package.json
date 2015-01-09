@@ -1,6 +1,6 @@
 {
   "name": "tiniplanet-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "dependencies": {
     "log4js": "0.6.21",
@@ -11,7 +11,7 @@
     "mocha": ">=0.0.1"
   },
   "description": "tiniplanet-logger, modified version of pomelo-logger",
-  "_id": "tiniplanet-logger@0.1.0",
+  "_id": "tiniplanet-logger@0.1.1",
   "_from": "tiniplanet-logger@",
   "_npmVersion": "1.4.9",
   "maintainers": [
